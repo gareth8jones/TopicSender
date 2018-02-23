@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TopicSender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TopicSender_jar</output-path>
+    <root id="archive" name="TopicSender.jar">
+      <element id="module-output" name="TopicSender" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../j2ee.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
